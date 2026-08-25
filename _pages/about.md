@@ -23,8 +23,7 @@ profile:
       </p>
     </div>
 
-nav: true
-nav_order: 1
+nav: false
 
 selected_papers: false
 social: false
