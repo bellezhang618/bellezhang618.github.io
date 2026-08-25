@@ -1,6 +1,6 @@
 ---
 layout: about
-title: bio
+title: Bio
 permalink: /
 subtitle:
 
@@ -23,7 +23,8 @@ profile:
       </p>
     </div>
 
-nav: false
+nav: true
+nav_order: 1
 
 selected_papers: false
 social: false
