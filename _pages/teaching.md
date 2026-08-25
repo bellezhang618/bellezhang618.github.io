@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: '<span style="color: var(--global-theme-color);">Teaching</span>'
+title: Teaching
 nav: true
 nav_order: 3
 ---
