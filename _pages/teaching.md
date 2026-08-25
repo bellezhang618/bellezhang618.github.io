@@ -6,6 +6,16 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+  body:has(.teaching-page) footer.sticky-bottom {
+    margin-top: 1.5rem !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+</style>
+
+<div class="teaching-page">
+
 **Instructor of Record** — Carnegie Mellon University, Tepper School of Business
 
 - Introduction to Organizational Behavior (strategic-management focus), Undergraduate, Summer 2025 — evaluation 4.95/5.0
@@ -18,3 +28,5 @@ nav_order: 3
 - Venture Capital & the Finance of Innovation (MBA), Prof. M. Denes, 2024
 - Organizational Learning (MBA), Prof. L. Argote, 2023–2024
 - Strategic Management and Innovation (MBA), Prof. O. Hahl, 2023
+
+</div>
