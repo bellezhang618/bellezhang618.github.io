@@ -1,15 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: '<span style="color: var(--global-theme-color);">Teaching</span>'
 nav: true
 nav_order: 3
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+**Instructor of Record** — Carnegie Mellon University, Tepper School of Business
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- Introduction to Organizational Behavior (strategic-management focus), Undergraduate, Summer 2025 — evaluation 4.95/5.0
 
-{% include courses.liquid %}
+**Teaching Assistant** — Carnegie Mellon University, Tepper School of Business
+
+- Managing Organizations and Networks (MBA), Prof. B. Aven, 2023–2025
+- Introduction to Entrepreneurship (MBA), Prof. J. Oh, 2024
+- People Analytics (MBA), Prof. B. Aven, 2023–2024
+- Venture Capital & the Finance of Innovation (MBA), Prof. M. Denes, 2024
+- Organizational Learning (MBA), Prof. L. Argote, 2023–2024
+- Strategic Management and Innovation (MBA), Prof. O. Hahl, 2023
