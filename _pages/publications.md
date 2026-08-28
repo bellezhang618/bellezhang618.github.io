@@ -66,7 +66,7 @@ nav_order: 2
     </article>
 
     <article class="paper dissertation-essay">
-      <p class="essay-label">Essay 1: Formation &mdash; Job Market Paper</p>
+      <p class="essay-label">Essay 1: Formation</p>
 
       <h4 class="paper-title"><em>Solutions in Search of Problems: Repurposing Capabilities in Pharmaceutical Innovation</em></h4>
 
