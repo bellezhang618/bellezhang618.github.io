@@ -19,7 +19,6 @@ profile:
       </style>
       <p class="profile-links">
         <a href="/assets/pdf/BZ_academic_CV.pdf" aria-label="Curriculum Vitae">CV</a>
-        <a href="https://www.linkedin.com/in/belle-zhang-a4a28911/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profile"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
       </p>
     </div>
 
