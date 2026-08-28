@@ -156,10 +156,6 @@ nav_order: 2
       <p>Belle (Chaoyi) Zhang and Brandy Aven</p>
 
       <p>Field data collection.</p>
-
-      <details>
-        <summary>Abstract</summary>
-      </details>
     </article>
 
   </section>
