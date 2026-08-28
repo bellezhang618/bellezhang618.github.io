@@ -68,7 +68,7 @@ nav_order: 2
     <article class="paper dissertation-essay">
       <p class="essay-label">Essay 1: Formation &mdash; Job Market Paper</p>
 
-      <h4 class="paper-title"><em>Solutions in Search of Problems: When Ill-Defined Evaluation Pays</em></h4>
+      <h4 class="paper-title"><em>Solutions in Search of Problems: Repurposing Capabilities in Pharmaceutical Innovation</em></h4>
 
       <p>Belle (Chaoyi) Zhang</p>
 
@@ -76,7 +76,7 @@ nav_order: 2
         <summary>Abstract</summary>
 
         <p>
-          When does reusing what a firm already holds create genuine innovation, and when does it merely exploit what is known? I model the population of feasible solution&ndash;problem pairs as a two-sided matching market and ask when a solution-driven posture outperforms the problem-driven search that dominates existing theory. The answer turns on evaluation noise: how hard it is to judge a match's value before its outcome is known. From Cortellis development and licensing records (2000&ndash;2025; about 47,000 deals) and a target&ndash;disease knowledge graph, I construct the counterfactual the question demands: for each drug, the roughly 541,000 disease matches that could have formed but mostly did not, which lets me ask who repurposes and who passes rather than reading conversion off survivors. Using risk-set matching that compares each realized match to five feasible non-matches for the same drug and quarter, I find that matches concentrate where the problem is ill-defined (match rates rise from 17% to 21% across terciles of late-stage clinical attrition), and that the pull of crowding into a well-trafficked problem (fan-in) fades about three times faster than the breadth of spreading one solution across problems (fan-out). A calibrated quality-diversity simulation, estimated by simulated method of moments, reproduces the same crossing in value: solution-driven search creates more value than problem-driven search precisely where evaluation is noisy.
+          When should firms organize innovation search around a problem they want to solve rather than around a capability they already possess? I argue that the answer depends on whether the problem provides reliable criteria for evaluating possible solutions. I model the population of feasible solution&ndash;problem pairs as a two-sided matching market and distinguish problem-driven search, in which firms begin with a problem, from solution-driven search, in which firms begin with an established capability and search for problems it might solve. I argue that the difference matters when problems are difficult to define: problem-driven search loses the evaluative criteria supplied by a clear problem, whereas knowledge accumulated around an existing capability can still provide a basis for judging fit. I test this argument in pharmaceutical drug repurposing by reconstructing nearly two million historically feasible firm&ndash;drug&ndash;disease opportunities, including matches firms could have pursued but did not, and inferring search direction from firms’ prior drug and disease development histories. I found that as prior development failures make a disease harder to define, firms become less likely to initiate problem-driven projects, while solution-driven pursuit remains comparatively resilient. The difference becomes even salient when firms decide whether to advance it into further development, and persists even when only a single candidate is under consideration. The findings identify search direction as a distinct dimension of organizational search and show how an established capability can provide evaluative structure when the problem itself offers unreliable guidance.
         </p>
       </details>
     </article>
@@ -84,7 +84,7 @@ nav_order: 2
     <article class="paper dissertation-essay">
       <p class="essay-label">Essay 2: Conversion &mdash; Job Market Paper</p>
 
-      <h4 class="paper-title"><em>Positioned to Repurpose: Who Converts an AI-Surfaced Match</em></h4>
+      <h4 class="paper-title"><em>Who Acts on AI Predictions? Opportunity-Specific Absorptive Capacity in Drug Repurposing</em></h4>
 
       <p>Belle (Chaoyi) Zhang</p>
 
@@ -92,7 +92,7 @@ nav_order: 2
         <summary>Abstract</summary>
 
         <p>
-          Once a promising new use for an existing drug has been surfaced, who actually converts it into a novel application? When the criteria for success are not yet defined, the ordinary ways of resolving uncertainty break down: the problem cannot be cleanly specified, traded, contracted over, or judged by an outside analyst. What remains is interpretation through what the firm already knows, and there its relational position matters. I hypothesize that a firm positioned closer to a candidate disease in the underlying biology, its drugs acting on molecular targets only a few steps from that disease, is better placed to recognize what its molecule might newly treat. I test this at the opportunity level across roughly 1.06 million firm &times; candidate drug&ndash;disease &times; snapshot cells that an AI graph foundation model surfaces independent of any firm's choice. Measuring relational position as PFP (problem-finding position), the firm's personalized-PageRank reachability to the candidate disease from the targets its portfolio already acts on, I find a firm better positioned toward a disease is about 10&ndash;15% per standard deviation more likely to pursue the match and turn it into an industry-first use, net of firm, disease, and snapshot fixed effects. A genetic-discovery instrument for a disease's biological tractability supports a causal rather than selection-driven reading (IV &asymp; 0.51 vs. OLS &asymp; 0.39). It is positional advantage, not molecular quality, that lets a firm act on an opportunity whose value is not yet defined.
+          If AI can surface the same promising opportunity to multiple firms, why are some firms better able to act on it than others? I study this question in pharmaceutical drug repurposing, where prediction systems can identify plausible new uses for existing drugs but cannot determine which organization will recognize, pursue, and develop them. I construct approximately 1.06 million firm&ndash;candidate&ndash;snapshot opportunities from a dated biological knowledge graph and pharmaceutical-development records, including candidates that eligible firms never pursue. I argue that acting on AI predictions requires opportunity-specific absorptive capacity: not simply having more knowledge, but having prior knowledge that is relationally connected to the particular problem a prediction identifies. I measure this capacity from the position of each firm’s existing drug portfolio in the biological knowledge graph, controlling for the candidate’s underlying technological feasibility. Firms with stronger opportunity-specific position are roughly 10&ndash;15% more likely to convert a surfaced candidate and are also more likely to generate an industry-first application. The findings show that AI may democratize prediction, but related organizational knowledge determines which firms can interpret and act on what AI reveals.
         </p>
       </details>
     </article>
@@ -100,7 +100,7 @@ nav_order: 2
     <article class="paper dissertation-essay">
       <p class="essay-label">Essay 3: Appropriation</p>
 
-      <h4 class="paper-title"><em>Keeping What You Find: Appropriability as Incentive</em></h4>
+      <h4 class="paper-title"><em>From Graphs to Governance: Value Capture and the Incentive to Run Solution-Driven Search</em></h4>
 
       <p>Belle (Chaoyi) Zhang</p>
 
@@ -108,7 +108,7 @@ nav_order: 2
         <summary>Abstract</summary>
 
         <p>
-          Essays 1 and 2 explain how solution&ndash;problem matches form and convert but take for granted that a firm will be paid for them. This paper asks what makes solution-driven search worth running in the first place: how much of the value a firm expects to keep. When a match becomes a product, its value is split by bargaining, and each side's leverage comes from its alternatives. Repurposing is the favorable case: because a firm owns its molecule across every disease it might treat, it keeps the value of moving that molecule into a new disease unless it licenses the drug out. So the more a firm expects to keep, the more solution-driven search is worth, and the more it should run. I build a deal-level capture panel on three substrates: a full-coverage commercializer proxy (in-house vs. licensed launch), a disclosure-gated value layer (Heckman-corrected), and a public&ndash;public event study for the true split. Alongside these I use a predetermined, leave-own-out appropriability measure and generic-entry timing from FDA Orange Book loss-of-exclusivity dates. Stronger expected capture raises solution-driven search by about 12% per standard deviation within firm, and a more developed, de-risked asset earns the firm a higher share of a realized match's value (+0.04). At generic entry the original owner does not retreat: a repurposed molecule's new-indication rights stay appropriable to the originator, consistent with the high appropriability that makes redeploying an existing solution worth the search.
+          This paper asks what makes solution-driven search worth running in the first place: how much of the value a firm expects to keep. When a match becomes a product, its value is split by bargaining, and each side's leverage comes from its alternatives. Repurposing is the favorable case: because a firm owns its molecule across every disease it might treat, it keeps the value of moving that molecule into a new disease unless it licenses the drug out. So the more a firm expects to keep, the more solution-driven search is worth, and the more it should run. I build a deal-level panel on full-coverage commercializer proxy (in-house vs. licensed launch) with a predetermined, leave-own-out appropriability measure and generic-entry timing from FDA Orange Book loss-of-exclusivity dates. The findings suggest that when there is stronger expected capture, it raises solution-driven search by about 12% per standard deviation within firm, and a more developed, de-risked asset earns the firm a higher share of a realized match's value.
         </p>
       </details>
     </article>
