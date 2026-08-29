@@ -51,6 +51,14 @@ nav_order: 2
     padding-left: 1.25rem;
     border-left: 2px solid #f0e0e2;
   }
+
+  .research-page summary {
+    cursor: pointer;
+  }
+
+  .research-page summary:hover {
+    color: #941120;
+  }
 </style>
 
 <section class="research-page">
