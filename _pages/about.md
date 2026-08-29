@@ -14,6 +14,7 @@ profile:
       <span style="color: var(--global-theme-color);">Tepper School of Business,<br>
       Carnegie Mellon University</span></p>
       <style>
+        @media (min-width: 576px) { .profile.float-right { margin-left: 1.5rem; } }
         .profile-links a { color: var(--global-text-color); font-size: 0.8em; }
         .profile-links a:hover { color: var(--global-theme-color); }
       </style>
