@@ -82,7 +82,7 @@ nav_order: 2
     </article>
 
     <article class="paper dissertation-essay">
-      <p class="essay-label">Essay 2: Conversion &mdash; Job Market Paper</p>
+      <p class="essay-label">Essay 2: Conversion</p>
 
       <h4 class="paper-title"><em>Who Acts on AI Predictions? Opportunity-Specific Absorptive Capacity in Drug Repurposing</em></h4>
 
