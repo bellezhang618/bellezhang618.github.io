@@ -70,7 +70,7 @@ nav_order: 2
 
       <p>Belle (Chaoyi) Zhang</p>
 
-      <p>This dissertation investigates when, how, and why organizations engage in solution-driven search: a form of search not motivated by a specific problem, but by the potential to repurpose existing capabilities. It follows a solution&ndash;problem match through its three moments&mdash;formation, conversion, and appropriation&mdash;in the setting of pharmaceutical drug repurposing, where a fixed molecular mechanism (the solution) is matched to a swappable disease (the problem), an AI graph foundation model surfaces candidate matches, and licensing makes the cross-firm market observable.</p>
+      <p>This dissertation investigates when, how, and why organizations engage in solution-driven search: a form of search not motivated by a specific problem, but by the potential to repurpose existing capabilities. It follows a solution&ndash;problem match through its three moments&mdash;formation, conversion, and appropriation&mdash;in the setting of pharmaceutical drug repurposing.</p>
     </article>
 
     <article class="paper dissertation-essay">
@@ -147,7 +147,7 @@ nav_order: 2
 
       <p>Belle (Chaoyi) Zhang, Carrington Motley, and Brandy Aven</p>
 
-      <p>Ready to submit to <em>Strategic Management Journal</em>.</p>
+      <p>Under review at <em>Strategic Management Journal</em>.</p>
 
       <details>
         <summary>Abstract</summary>
