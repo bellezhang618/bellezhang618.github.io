@@ -18,9 +18,16 @@ profile:
       Carnegie Mellon University</span></p>
       <style>
         @media (min-width: 576px) { .profile.float-right { margin-left: 1.5rem; } }
+        .profile-email { margin: 0.75rem 0 1rem; text-align: center; }
+        .profile-email a { color: var(--global-text-color); font-size: 0.85em; }
+        .profile-email a:hover { color: var(--global-theme-color); }
+        .profile-links { margin: 0; text-align: center; }
         .profile-links a { color: var(--global-text-color); font-size: 0.8em; }
         .profile-links a:hover { color: var(--global-theme-color); }
       </style>
+      <p class="profile-email">
+        <a href="mailto:chaoyiz@andrew.cmu.edu">chaoyiz@andrew.cmu.edu</a>
+      </p>
       <p class="profile-links">
         <a href="/assets/pdf/BZ_academic_CV.pdf" aria-label="Curriculum Vitae">CV</a>
       </p>
