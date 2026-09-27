@@ -2,6 +2,8 @@
 layout: page
 permalink: /publications/
 title: Research
+description: >-
+  Research by Belle (Chaoyi) Zhang on organizational search, innovation, pharmaceutical drug repurposing, venture capital networks, and peer influence.
 nav: true
 nav_order: 2
 ---

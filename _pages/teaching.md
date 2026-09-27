@@ -2,6 +2,9 @@
 layout: page
 permalink: /teaching/
 title: Teaching
+description: >-
+  Teaching experience of Belle (Chaoyi) Zhang at Carnegie Mellon University's Tepper School of Business in organizational behavior, entrepreneurship,
+  networks, and strategic management.
 nav: true
 nav_order: 3
 ---
