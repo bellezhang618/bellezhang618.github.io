@@ -115,16 +115,6 @@ div#notebook {
   background-color: #ffffff;
 }
 
-#header .header-bar {
-  background: #ffffff;
-  background-color: #ffffff;
-}
-
-body > #header .header-bar {
-  width: 100%;
-  background: #ffffff;
-}
-
 .navbar {
   border: none;
 }
@@ -162,16 +152,6 @@ body > #header .header-bar {
     -webkit-transform: scale(1, 1);
     opacity: 0.8;
   }
-}
-
-.fa {
-  display: inline-block;
-  font:
-    normal normal normal 10pt/1 "FontAwesome",
-    sans-serif;
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .dropdown-menu {
@@ -287,14 +267,6 @@ body > #header .header-bar {
   transition: 200ms ease !important;
 }
 
-
-.btn-sm {
-  font-size: inherit;
-  font-weight: normal;
-  height: inherit;
-  line-height: inherit;
-}
-
 button.close {
   border: 0px none;
   font-family: sans-serif;
@@ -313,19 +285,6 @@ button.close {
   color: #de143d;
   opacity: 1;
   font-weight: normal;
-}
-
-div.modal > button {
-  background: #e4e4e4;
-  background-color: #e4e4e4;
-  border-color: #e4e4e4;
-}
-
-div.modal > button:hover {
-  background: #dfdfdf;
-  background-color: #dfdfdf;
-  border-color: #dfdfdf;
-  transition: 200ms ease;
 }
 
 div.panel,
@@ -406,12 +365,9 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6,
 pre,
 code,
 form,
-legend,
 input,
 button,
 textarea,
@@ -544,14 +500,6 @@ input.raw_input {
   margin: 0em 0.25em;
   -webkit-box-shadow: none;
   box-shadow: none;
-}
-
-audio,
-video {
-  display: inline;
-  vertical-align: middle;
-  align-content: center;
-  margin-left: 20%;
 }
 
 
