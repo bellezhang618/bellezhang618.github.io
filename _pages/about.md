@@ -3,6 +3,9 @@ layout: about
 title: Bio
 permalink: /
 subtitle:
+description: >-
+  Belle (Chaoyi) Zhang is a Ph.D. candidate in Organizational Behavior and Theory at Carnegie Mellon University's Tepper School of Business. Her
+  research examines innovation, organizational search, and venture capital networks.
 
 profile:
   align: right
@@ -36,6 +39,8 @@ latest_posts:
 ---
 
 <div style="max-width: 680px;">
+
+<p>I am Belle (Chaoyi) Zhang, a Ph.D. candidate in Organizational Behavior and Theory at Carnegie Mellon University (CMU), Tepper School of Business.</p>
 
 <p>I study how firms identify, evaluate, and act on uncertain matches between capabilities and opportunities. My research asks how organizations decide which problems to solve with the capabilities they possess, why the same opportunity is actionable for some firms but not others, and how these choices shape innovation.</p>
 
